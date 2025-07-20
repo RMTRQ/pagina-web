@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Página educativa sobre cómo practicar los valores de la cooperación y la sinceridad.">
+  <title>Cooperación y Sinceridad</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #2d6a4f, #40916c);
+      color: #fff;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+    }
+    section {
+      max-width: 1000px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    section h2 {
+      color: #2d6a4f;
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+    }
+    section img {
+      max-width: 100%;
+      border-radius: 8px;
+      margin: 1rem 0;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+    ul li {
+      margin: 0.5rem 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #2d6a4f;
+      color: #fff;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+    }
+    .highlight {
+      color: #e76f51;
+      font-weight: bold;
+    }
+    .frase-motivadora {
+      text-align: center;
+      font-size: 1.4rem;
+      font-weight: bold;
+      color: #e76f51;
+      margin: 2rem 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Cooperación y Sinceridad</h1>
+    <p>Valores que fortalecen la convivencia y el respeto mutuo.</p>
+  </header>
+
+  <section>
+    <h2>¿Qué es la Cooperación?</h2>
+    <img src="https://img.freepik.com/foto-gratis/trabajo-equipo-manos-juntas_23-2147795694.jpg" alt="Imagen de cooperación">
+    <p>La <span class="highlight">cooperación</span> consiste en unir esfuerzos para alcanzar un objetivo común, trabajando juntos con respeto y empatía.</p>
+    <h3>Pautas para practicar la cooperación:</h3>
+    <ul>
+      <li>Escucha activamente las ideas de los demás.</li>
+      <li>Ayuda a quienes lo necesiten sin esperar algo a cambio.</li>
+      <li>Valora y respeta las habilidades de cada persona.</li>
+      <li>Trabaja en equipo para alcanzar metas colectivas.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>¿Qué es la Sinceridad?</h2>
+    <img src="https://img.freepik.com/foto-gratis/personas-hablando-conexion-emocional_23-2149102756.jpg" alt="Imagen de sinceridad">
+    <p>La <span class="highlight">sinceridad</span> es expresar la verdad con respeto, transparencia y honestidad en nuestras palabras y acciones.</p>
+    <h3>Pautas para practicar la sinceridad:</h3>
+    <ul>
+      <li>Habla con claridad y respeto, evitando herir a otros.</li>
+      <li>Mantén coherencia entre lo que piensas, dices y haces.</li>
+      <li>No ocultes tus errores, reconoce cuando te equivocas.</li>
+      <li>Construye confianza siendo siempre auténtico.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>¿Por qué son importantes?</h2>
+    <img src="https://img.freepik.com/foto-gratis/equipo-trabajando-unido_23-2147746503.jpg" alt="Importancia de los valores">
+    <p>La cooperación y la sinceridad son pilares para una convivencia armónica. Nos ayudan a construir relaciones basadas en la confianza, la empatía y el trabajo en equipo.</p>
+  </section>
+
+  <div class="frase-motivadora">
+    "Tú puedes generar un gran cambio, pero solo lo lograrás si tú te lo propones."
+  </div>
+
+  <footer>
+    <p>Proyecto educativo sobre valores - Cooperación y Sinceridad © 2025</p>
+  </footer>
+</body>
+</html>
